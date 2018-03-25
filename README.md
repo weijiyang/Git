@@ -10,8 +10,11 @@
 
 ## merge分支操作
 * git branch //查看有哪些分支
+* git branch -r/-a //查看远程分支or全部分支
 * git branch name //新建一个name分支
 * git checkout name //切换到name分支
 * git checkout -b name //新建并切换到name分支
+* git checkout -d name //切换并删除name分支
+* git merge master //把master分支上的代码merge到 该分支上
 
 
