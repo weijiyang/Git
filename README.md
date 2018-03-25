@@ -17,10 +17,8 @@
 * git checkout name //切换到name分支
 * git checkout -b name //新建并切换到name分支
 * git checkout -d name //切换并删除name分支
-<<<<<<< HEAD
 * git merge master //把master分支上的代码merge到 该分支上
-=======
-* git merge master //把master分支上的代码merge到 该分支上
+把master分支上的代码merge到 该分支上
 
 ## 团队合作开发
 * git init //主干初始化项目
@@ -38,6 +36,3 @@
 * git commit -m "" //提交最新代码
 * git checkout master//回到主分支
 * git push origin name //将分支代码合并到主干
-
-
->>>>>>> test
